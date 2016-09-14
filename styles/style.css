@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+.gif {
+	width: 320px;
+	height: 240px;
+	margin:  10px auto;
+}
+
+h3 {
+	text-align: center;
+}
+
+.icon {
+	border-radius: 25px 25px 25px 25px;
+	display: block;
+	width: 240px;
+	margin: 10px auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+    margin: 0 auto;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
